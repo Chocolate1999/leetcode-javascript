@@ -9,7 +9,9 @@
 ## :loudspeaker:公告
 感谢访问本站，若喜欢请收藏，star支持一下 ✿✿ヽ(°▽°)ノ✿
 
->此处应该有一个思维导图，待更新，mark
+>思维导图还在建设完善中ing
+
+![](https://cdn.jsdelivr.net/gh/chocolate1999/cdn/img/20200913194221.png)
 
 ## :snowman:笔记网站（更新）
 
