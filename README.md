@@ -11,7 +11,7 @@
 
 >思维导图还在建设完善中ing
 
-![](https://cdn.jsdelivr.net/gh/chocolate1999/cdn/img/20200926162932.png)
+https://cdn.jsdelivr.net/gh/chocolate1999/cdn/img/20201004171839.png
 
 ## :snowman:笔记网站（更新）
 
