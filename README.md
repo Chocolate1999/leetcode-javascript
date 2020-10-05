@@ -1,14 +1,7 @@
 ##  :sunny:leetcode-javascript
 
 <p align="center">
-<a href="http://hits.dwyl.com/Chocolate1999/leetcode-javascript"><img src="http://hits.dwyl.com/Chocolate1999/leetcode-javascript.svg" alt="HitCount"></a><a href="https://www.gnu.org/licenses/"> <img src="https://img.shields.io/github/license/Chocolate1999/leetcode-javascript.svg" alt="License"></a><a href="https://github.com/Chocolate1999/leetcode-javascript/network"> <img src="https://img.shields.io/github/forks/Chocolate1999/leetcode-javascript.svg" alt="GitHub forks"></a> <a href="https://github.com/Chocolate1999/leetcode-javascript/stargazers"> <img src="https://img.shields.io/github/stars/Chocolate1999/leetcode-javascript.svg" alt="GitHub stars"></a><img src="https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667"></img></p>
-
-
-<p align="center">
-<img src="https://camo.githubusercontent.com/87301d019d7f5fd66e4186fcf2f7e7a2276fd9f1/68747470733a2f2f7472617669732d63692e636f6d2f736877323031382f736877323031382e6769746875622e696f2e737667" alt="Build Status" data-canonical-src="https://travis-ci.comChocolate1999/leetcode-javascript.svg" style="max-width:100%;">
-<a href="http://hits.dwyl.com/Chocolate1999/leetcode-javascript"><img src="http://hits.dwyl.com/Chocolate1999/leetcode-javascript.svg" alt="HitCount"></a><a href="https://www.gnu.org/licenses/"> <img src="https://img.shields.io/github/license/Chocolate1999/leetcode-javascript.svg" alt="License"></a><a href="https://github.com/Chocolate1999/leetcode-javascript/network"> <img src="https://img.shields.io/github/forks/Chocolate1999/leetcode-javascript.svg" alt="GitHub forks"></a> <a href="https://github.com/Chocolate1999/leetcode-javascript/stargazers"> <img src="https://img.shields.io/github/stars/Chocolate1999/leetcode-javascript.svg" alt="GitHub stars"></a>
-<a href="https://github.com/Chocolate1999/leetcode-javascript/releases"><img alt="Version" src="https://img.shields.io/badge/release-2.0.0-blue"/></a><a href="https://yangchaoyi.vip/"><img alt="Author" src="https://img.shields.io/badge/author-yangchaoyi-blur"/></a>
-</p>
+<a href="http://hits.dwyl.com/Chocolate1999/leetcode-javascript"><img src="http://hits.dwyl.com/Chocolate1999/leetcode-javascript.svg" alt="HitCount"></a><a href="https://www.gnu.org/licenses/"> <img src="https://img.shields.io/github/license/Chocolate1999/leetcode-javascript.svg" alt="License"></a><a href="https://github.com/Chocolate1999/leetcode-javascript/network"> <img src="https://img.shields.io/github/forks/Chocolate1999/leetcode-javascript.svg" alt="GitHub forks"></a> <a href="https://github.com/Chocolate1999/leetcode-javascript/stargazers"> <img src="https://img.shields.io/github/stars/Chocolate1999/leetcode-javascript.svg" alt="GitHub stars"></a><img src="https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667"></img><a href="https://yangchaoyi.vip/"><img alt="Author" src="https://img.shields.io/badge/author-yangchaoyi-blur"/></a></p>
 
 
 
