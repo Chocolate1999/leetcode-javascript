@@ -67,7 +67,7 @@ https://yangchaoyi.vip/iBook/ （基于vuepress搭建的前端学习笔记，目
 
 ## :trophy:结尾
 
-<font color=chocolate>欢迎关注微信公众号：小狮子前端Vue</font>
+<font color=chocolate>欢迎关注微信公众号：小狮子前端</font>
 
 谢谢您的支持！✿✿ヽ(°▽°)ノ✿
 
